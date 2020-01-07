@@ -7,9 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "lw944@york.ac.uk",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Doesn't do very much at this point
+Description: Doesn't do very much at this point.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/PSBroccoli/Test1
 BugReports: https://github.com/PSBroccoli/Test1/issues
+RoxygenNote: 7.0.2
