@@ -1,14 +1,14 @@
 Package: Test1
-Title: What the Package Does (One Line, Title Case)
+Title: Lucy Learns Package Creation
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Lucy",
+           family = "Wheeler",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "lw944@york.ac.uk",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+Description: Doesn't do very much at this point
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/PSBroccoli/Test1
